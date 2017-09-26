@@ -1,0 +1,3 @@
+library TestA
+    test
+endlibrary
